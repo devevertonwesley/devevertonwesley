@@ -1,6 +1,6 @@
 ## Olá, sou Everton Wesley 👋
 
-- 🧑🏾‍💼 Estou trabalhando com C#;
+- 🧑🏾‍💼 Estou focado em C#;
 - 👨🏾‍💻 Estudando Python; 
 - 🔎 Estou em busca de oportunidades para colaborar na área de Inteligência Artificial.
 
