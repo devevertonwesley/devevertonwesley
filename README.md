@@ -1,6 +1,6 @@
-## Olá, sou Everton Wesley 👋
+## Olá, sou Everton Oliveira 
 
-- 🧑🏾‍💼 Estou focado em C#;
+- 🧑🏾‍💼 Estou focado em PHP;
 - 👨🏾‍💻 Estudando Python; 
 - 🔎 Estou em busca de oportunidades para colaborar na área de Inteligência Artificial.
 
@@ -15,27 +15,27 @@
 </div>
 
 ##
+HTML
+/ CSS
+/ JavaScript    
+/ PHP
+/ Banco de Dados SQL
+/ PYTHON
+
+##
+
 
 <div>
     <a href="https://www.linkedin.com/in/everton-w-5a0a79317/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-3F00FF?style=for-the-badge&logo=linkedin&logoColor=green" alt="LinkedIn">
     </a>
-    <a href="cst.evertonwesley@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-3F00FF?style=for-the-badge&logo=gmail&logoColor=gray" alt="Gmail">
-    </a>
-    <a href="https://discord.gg/dVGx9QMM">
-        <img src="https://img.shields.io/badge/Discord-3F00FF?style=for-the-badge&logo=discord&logoColor=yellow">
-    </a>
     <a href="https://github.com/devevertonwesley">
         <img src="https://img.shields.io/badge/GitHub-3F00FF?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/evertonwesley10" target="_blank">
+        <a href="cst.evertonwesley@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-3F00FF?style=for-the-badge&logo=gmail&logoColor=gray" alt="Gmail">
+    </a>
+    <a href="https://www.instagram.com/evertonwly" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-3F00FF?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram">
-    </a>
-    <a href="https://www.youtube.com/@EvertonW-f3y">
-        <img src="https://img.shields.io/badge/YouTube-3F00FF?style=for-the-badge&logo=youtube&logoColor=red">
-    </a>
-    <a href="https://www.twitch.tv/subtrone" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-3F00FF?style=for-the-badge&logo=twitch&logoColor=purple" alt="Twitch">
     </a>
 </div>
