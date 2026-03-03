@@ -26,7 +26,7 @@ HTML
 
 
 <div>
-    <a href="https://www.linkedin.com/in/everton-w-5a0a79317/" target="_blank">
+    <a href="https://www.linkedin.com/in/everton-woliveira/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-3F00FF?style=for-the-badge&logo=linkedin&logoColor=green" alt="LinkedIn">
     </a>
     <a href="https://github.com/devevertonwesley">
