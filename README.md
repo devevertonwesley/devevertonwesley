@@ -35,7 +35,4 @@ HTML
         <a href="cst.evertonwesley@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-3F00FF?style=for-the-badge&logo=gmail&logoColor=gray" alt="Gmail">
     </a>
-    <a href="https://www.instagram.com/evertonwly" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-3F00FF?style=for-the-badge&logo=instagram&logoColor=orange" alt="Instagram">
-    </a>
 </div>
