@@ -14,16 +14,11 @@
     <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
-##
-HTML
-/ CSS
-/ JavaScript    
-/ PHP
-/ Banco de Dados SQL
-/ PYTHON
+- Linguagens de programação: Python, Java, JavaScript, PHP, C, C# e C++
+- Desenvolvimento web: HTML, CSS e JavaScript
 
-##
-
+- Bancos de dados relacionais: SQL, MySQL, PostgreSQL e SQLite
+- Administração e otimização de bancos de dados
 
 <div>
     <a href="https://www.linkedin.com/in/everton-woliveira/" target="_blank">
