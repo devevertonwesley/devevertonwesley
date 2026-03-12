@@ -1,6 +1,4 @@
-## Olá, sou Everton Oliveira 
-
-- Sou Everton Wesley Pereira Oliveira
+- Olá, sou Everton Wesley Pereira Oliveira
 - DevOps Engineer focado em automação, cloud e confiabilidade. Gosto de transformar processos manuais em pipelines previsíveis, melhorar performance e observabilidade, e ajudar times a entregar com segurança e rapidez.
 
 <div style="display: inline_block">
