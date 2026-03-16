@@ -1,5 +1,5 @@
 - Olá, sou Everton Wesley Pereira Oliveira
-- DevOps Engineer focado em automação, cloud e confiabilidade. Gosto de transformar processos manuais em pipelines previsíveis, melhorar performance e observabilidade, e ajudar times a entregar com segurança e rapidez.
+DevOps Engineer focado em automação, cloud e confiabilidade. Gosto de transformar processos manuais em pipelines previsíveis, melhorar performance e observabilidade, e ajudar times a entregar com segurança e rapidez.
 
 <div style="display: inline_block">
     <img align="center" alt="-Csharp" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
